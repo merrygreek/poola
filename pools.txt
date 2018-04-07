@@ -35,5 +35,5 @@
  *
  */
 
-"currency" : "stellite",
+"currency" : "monero7",
 
